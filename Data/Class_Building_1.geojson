@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Class_Building_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Class4": 4 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -79.052264699088838, 35.910316353269202 ], [ -79.051659852916401, 35.910529828388889 ], [ -79.051429361663992, 35.910167848838114 ], [ -79.05202647323064, 35.909915700689503 ], [ -79.052264699088838, 35.910316353269202 ] ] ] ] } }
+]
+}
